@@ -1,6 +1,6 @@
 # Research_slide
 ## 論文まとめスライド
-### [Takasao et al. (2012)](#Takasao)
+・[[Slides]](Takasao et al.pdf)
 
 
-<a id="Takasao">Takasao et al. 2011.pptx</a>
+

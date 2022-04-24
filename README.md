@@ -3,4 +3,4 @@
 ### [Takasao et al. (2012)](#Takasao)
 
 
-<a id="Takasao">Takasao et al. 2011.pdf</a>
+<a id="Takasao">"https://github.com/dokeyuka/Research_slide.git/'Takasao et al. 2011.pdf'"</a>
